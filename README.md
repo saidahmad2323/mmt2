@@ -56,7 +56,7 @@
 </head>
 <body>
     <div id="main-screen">
-        <h1>English</h1>
+        <h1>Таърих</h1>
         <input type="text" id="search-input" placeholder="Введите текст для поиска...">
         <div id="qa-container"></div>
     </div>
